@@ -4,3 +4,4 @@ plugins:
 title: "Seunggyu Han"
 description: "Seunggyu Han's profile page"
 show_downloads: false
+is_project_page: false
