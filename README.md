@@ -1,6 +1,10 @@
 # 한승규
 ## <ruby>韓<rp>(</rp><rt>ハン</rt><rp>)</rp></ruby>　<ruby>昇奎<rp>(</rp><rt>スンギュ</rt><rp>)</rp></ruby> Seunggyu Han
 
+[日本語版はこちら](/ja/)
+
+~~[Click Here for English]()~~
+
 일본어, 영어 통번역사
 - 이메일: sghan9598 at gmail.com
 - 휴대전화: O1O-4O77-5672
@@ -28,7 +32,6 @@
 - 온라인 및 오프라인 순차통역
 - 한-일, 일-한
 
-
 ### 국제 학술대회 전시 부스 초청 일본인 연사 통역	(2025.09.)
 - CoRL 2025 (서울특별시)
 - 일-영 통역
@@ -39,8 +42,7 @@
 
 ## 번역 경력
 ### 	온라인 강의 자막 번역 (2021.12 ~ 2022.05)
-- Adobe After effe
-- cts, Python 강의
+- Adobe After effects, Python 강의
 - ㈜바른번역미디어 
 
 
