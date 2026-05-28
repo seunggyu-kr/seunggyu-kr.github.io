@@ -1,6 +1,5 @@
 [日本語版はこちら](/ja/)
-
-~~[Click Here for English]()~~
+~~[Click Here for English](/en/)~~
 
 일본어, 영어 통번역사
 - 이메일: sghan9598 at gmail.com
