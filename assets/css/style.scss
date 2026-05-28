@@ -1,6 +1,7 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
-header { display: none; }
+.btn {
+  display: none !important;
+}
