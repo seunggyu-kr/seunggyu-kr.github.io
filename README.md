@@ -1,6 +1,3 @@
-# 한승규
-## <ruby>韓<rp>(</rp><rt>ハン</rt><rp>)</rp></ruby>　<ruby>昇奎<rp>(</rp><rt>スンギュ</rt><rp>)</rp></ruby> Seunggyu Han
-
 [日本語版はこちら](/ja/)
 
 ~~[Click Here for English]()~~

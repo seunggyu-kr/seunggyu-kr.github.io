@@ -2,7 +2,7 @@ remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 name: "Seunggyu Han"
-title: "한승규 韓 昇奎 (ハン・スンギュ) Seunggyu Han"
+title: "한승규 | 韓 昇奎 (ハン・スンギュ) | Seunggyu Han"
 description: "Korean, English, Japanese Interpreter & Translator"
 show_downloads: false
 is_project_page: false
